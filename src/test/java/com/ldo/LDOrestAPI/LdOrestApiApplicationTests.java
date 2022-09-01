@@ -10,6 +10,7 @@ class LdOrestApiApplicationTests {
 	void contextLoads() {
 		int a = 0;
 		int b = 0;
+		String abc = "Master Branch Pull";
 	}
 
 }
